@@ -1,6 +1,5 @@
 # hello-GitHub
-Just learning the ropes
 
-Commit to it!
+Commit to it damn you!
 
-Must disagree on the flavour Moon Tacos.
+Must disagree on the flavour of Moon Tacos.
